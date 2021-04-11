@@ -1,5 +1,5 @@
 # risk-ensemble
-A repo to test some AI hypothesis on credit risk modelling
+A repo to test some AI hypothesis on credit risk modelling. A series of notebooks will be hosted as a record.
 
 ## Some basic ML models that will be investigated
 1. Logistic Regression
