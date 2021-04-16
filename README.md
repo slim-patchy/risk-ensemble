@@ -5,7 +5,7 @@ A repo to test some AI hypothesis on credit risk modelling. A series of notebook
 1. Logistic Regression
 2. Support Vector Machine (SVM)
 3. Naïve Bayes
-4. Random Rorests
+4. Random Forests
 5. XGBoost (which is a form of Gradient Boosting)
 6. Stochastic Gradient Descent (SGD)
 7. Artificial neural networks (ANNs)
