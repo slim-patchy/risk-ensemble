@@ -10,3 +10,6 @@ A repo to test some AI hypothesis on credit risk modelling. A series of notebook
 6. Stochastic Gradient Descent (SGD)
 7. Artificial neural networks (ANNs)
 8. LASSO (for refining our feature engineering)
+
+## Contents
+This repo contains Jupyter notebooks that can be run locally via virtual environment like Miniconda. 
